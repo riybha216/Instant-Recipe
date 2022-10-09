@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "instant-recipe"
+version = "0.1.0"
+description = ""
+authors = ["Riya Bhatia"]
+
+[tool.poetry.dependencies]
+python = ">=3.8.0,<3.9"
+urllib3 = "^1.26.12"
+praw = "^7.6.0"
+argparse3 = "^0.0.0"
