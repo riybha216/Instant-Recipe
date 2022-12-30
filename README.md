@@ -12,6 +12,5 @@ This project uses PRAW (Python Reddit API Wrapper) to recieve recipes from Reddi
 
 # To-dos:
 * Instead of using the command line, implement a web application that allows users to input their ingredients in a more interactive method.
-* Take dietary needs (allergies, etc) into account when providing recipe outputs.
 * If users don't have essential ingredients that recipes ask for, direct them to grocery stores/farmer markers near them (using Google Maps API?). 
 
